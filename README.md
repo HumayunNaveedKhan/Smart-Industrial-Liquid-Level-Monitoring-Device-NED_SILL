@@ -186,7 +186,7 @@ H. Khan, F. Sheikh, H. Waqar, and R. Uddin, "Smart Industrial Liquid Level Solut
 
 **Humayun Khan**  
 Team Lead, HHRCM Lab, NCRA-NEDUET  
-Co-Founder, Haptronica & RobAutoStem (BIC NEDUET, NIC Karachi-Cohort 12)
+Co-Founder, Haptronica (incubated in BIC NEDUET) & RobAutoStem (incubated in BIC NEDUET, NIC Karachi-Cohort 12)
 
 📧 humayunnaveedkhan@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/humayunnaveedkhan)  
