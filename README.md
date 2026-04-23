@@ -138,14 +138,16 @@ real-time non-contact cloud visibility across factory floor
 <img width="960" height="747" alt="NED-SILL-deployment-2" src="https://github.com/user-attachments/assets/21f4f970-8813-4c15-b139-659c8e86fd21" />
 <img width="960" height="747" alt="Plant pics for NED-SILL" src="https://github.com/user-attachments/assets/69303109-337c-4ded-b9d2-e108ca108b0b" />
 <img width="960" height="747" alt="NED-SILL-deployment-3 1" src="https://github.com/user-attachments/assets/292700ba-6fa4-4c84-8837-2f5e42b13c6d" />
-<img width="960" height="66" alt="image" src="https://github.com/user-attachments/assets/bf1f68ac-2d49-4607-bcf6-f2f2ed87625e" />
-
-<img width="960" height="813" alt="image" src="https://github.com/user-attachments/assets/4e20652d-54ed-4e5f-ab0b-53f3ea92e2ba" />
+<img width="960" height="66" alt="NED-SILL-GoogleSheets-Dashboard" src="https://github.com/user-attachments/assets/bf1f68ac-2d49-4607-bcf6-f2f2ed87625e" /> 
+<img width="960" height="813" alt="NED-SILL-OLED-Display-Readout" src="https://github.com/user-attachments/assets/4e20652d-54ed-4e5f-ab0b-53f3ea92e2ba" />
 
 <img width="720" height="1200" alt="NED-SILL-App-2" src="https://github.com/user-attachments/assets/a4c2d604-b90d-4a65-985d-57753fd0bc0e" />
 <img width="720" height="1200" alt="NED-SILL-App-1" src="https://github.com/user-attachments/assets/2678bc2f-ff6e-4bc2-b9b0-fc7027281720" />
 
-
+> 📌 Dashboard screenshots and real-time data shown in this 
+> repository are from lab testings at HHRCM Lab, NCRA-NEDUET. 
+> Production data from J&P Coats deployment is confidential 
+> and not included in this repository.
 
 
 ---
@@ -184,7 +186,7 @@ H. Khan, F. Sheikh, H. Waqar, and R. Uddin, "Smart Industrial Liquid Level Solut
 
 **Humayun Khan**  
 Team Lead, HHRCM Lab, NCRA-NEDUET  
-Co-Founder, Haptronica & RobAutoStem (NIC Karachi, Cohort 12)
+Co-Founder, Haptronica & RobAutoStem (BIC NEDUET, NIC Karachi-Cohort 12)
 
 📧 humayunnaveedkhan@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/humayunnaveedkhan)  
