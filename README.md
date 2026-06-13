@@ -170,7 +170,7 @@ Status: Under Review
 
 ## Publication
 
-H. Khan, F. Sheikh, H. Waqar, and R. Uddin, "Smart Industrial Liquid Level Solution for Textile and Process Industry," in Proceedings of the 7th International Conference on Robotics and Automation in Industry (ICRAI), Islamabad, Pakistan, May 2026.
+H. Khan, F. Sheikh, H. Waqar, and R. Uddin, "Smart Industrial Liquid Level Solution for Textile and Process Industry," in Proceedings of the 7th International Conference on Robotics and Automation in Industry (ICRAI), Islamabad, Pakistan, May 2026. [Link](https://ieeexplore.ieee.org/document/11551927)
 
 ---
 
